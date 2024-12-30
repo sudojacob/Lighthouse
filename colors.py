@@ -1,0 +1,22 @@
+# TOP LIGHT COLORS
+# ==================================
+# (red, blue, white, green)
+STARTUP = (100, 0, 0, 100)
+OFF = (0, 0, 0, 0)
+WARM_WHITE = (50, 50, 255, 50)
+TOP_LEVEL_0 = OFF
+TOP_LEVEL_1 = (10, 10, 100, 10)
+TOP_LEVEL_2 = (50, 50, 190, 50)
+TOP_LEVEL_3 = (50, 50, 255, 50)
+BEAM = (255, 255, 255, 255)
+
+
+# INTERIOR LIGHT COLORS
+# =================================
+INTERIOR_STARTUP = (100, 100, 0)
+INTERIOR_OFF = (0, 0, 0)
+INTERIOR_ORANGE = (123, 255, 6)
+INTERIOR_LEVEL_0 = INTERIOR_OFF
+INTERIOR_LEVEL_1 = (61, 140, 3)
+INTERIOR_LEVEL_2 = (123, 255, 6)
+INTERIOR_LEVEL_3 = (123, 255, 6)
